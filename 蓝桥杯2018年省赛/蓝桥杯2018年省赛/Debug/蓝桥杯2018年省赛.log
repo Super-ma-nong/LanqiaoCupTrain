@@ -1,5 +1,6 @@
-﻿  2018年A第四题：航班时间.cpp
-E:\Visual Studio 2019 项目文件\蓝桥杯\蓝桥杯2018年省赛\蓝桥杯2018年省赛\2018年A第四题：航班时间.cpp(27,11): warning C4101: “m”: 未引用的局部变量
-E:\Visual Studio 2019 项目文件\蓝桥杯\蓝桥杯2018年省赛\蓝桥杯2018年省赛\2018年A第四题：航班时间.cpp(27,14): warning C4101: “s”: 未引用的局部变量
-E:\Visual Studio 2019 项目文件\蓝桥杯\蓝桥杯2018年省赛\蓝桥杯2018年省赛\2018年A第四题：航班时间.cpp(27,8): warning C4101: “h”: 未引用的局部变量
-  蓝桥杯2018年省赛.vcxproj -> E:\Visual Studio 2019 项目文件\蓝桥杯\蓝桥杯2018年省赛\Debug\蓝桥杯2018年省赛.exe
+﻿  BFS模板.cpp
+  广度优先搜索BFS.cpp
+E:\Github\LanqiaoCupTrain\蓝桥杯2018年省赛\蓝桥杯2018年省赛\广度优先搜索BFS.cpp(8,21): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\Github\LanqiaoCupTrain\蓝桥杯2018年省赛\蓝桥杯2018年省赛\广度优先搜索BFS.cpp(8,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  蓝桥杯2018年省赛.vcxproj -> E:\Github\LanqiaoCupTrain\蓝桥杯2018年省赛\Debug\蓝桥杯2018年省赛.exe

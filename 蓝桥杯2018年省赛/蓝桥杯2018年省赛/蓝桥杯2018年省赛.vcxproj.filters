@@ -27,5 +27,8 @@
     <ClCompile Include="2018年A第四题：航班时间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2018年A第五题：三体攻击.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

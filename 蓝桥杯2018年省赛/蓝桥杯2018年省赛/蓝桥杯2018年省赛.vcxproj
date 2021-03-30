@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="2018年A第一题分数.cpp" />
     <ClCompile Include="2018年A第三题：乘积尾零.cpp" />
+    <ClCompile Include="2018年A第五题：三体攻击.cpp" />
     <ClCompile Include="2018年A第四题：第几个幸运数.cpp" />
     <ClCompile Include="2018年A第四题：航班时间.cpp" />
   </ItemGroup>

@@ -22,7 +22,7 @@ long pow_2(int b) {
 
 // 最大公约数
 int gcd(long a, long b) {
-	return b == 0?a:gcd(b, a % b);
+	return b?a:gcd(b, a % b);
 }
 
 
