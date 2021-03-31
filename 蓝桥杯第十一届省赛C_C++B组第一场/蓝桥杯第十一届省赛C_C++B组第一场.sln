@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "蓝桥杯第十一届省赛C_C++B组第一场", "蓝桥杯第十一届省赛C_C++B组第一场\蓝桥杯第十一届省赛C_C++B组第一场.vcxproj", "{F1DEB398-E26C-4A21-B3AF-DC535274BD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Debug|x64.ActiveCfg = Debug|x64
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Debug|x64.Build.0 = Debug|x64
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Debug|x86.Build.0 = Debug|Win32
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Release|x64.ActiveCfg = Release|x64
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Release|x64.Build.0 = Release|x64
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Release|x86.ActiveCfg = Release|Win32
+		{F1DEB398-E26C-4A21-B3AF-DC535274BD15}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB7B986-B16A-4311-9989-3819F00F99B3}
+	EndGlobalSection
+EndGlobal
